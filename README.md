@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Simple example of debug limitation in *VSCode*, *IntelliJ* and other IDEs if [Fibers](https://github.com/laverdet/node-fibers) is used.
+Simple example of debug limitation in *VSCode*, *IntelliJ* and other IDEs (or maybe NodeJS?) if [Fibers](https://github.com/laverdet/node-fibers) is used.
 
 ## Usage
 
