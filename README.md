@@ -22,6 +22,10 @@ should be possible to debug in IDE. Please help!
 
 ## Structure
 
+Full flow describing my use case
 - `lib.js` stub for 3rd party library
 - `async.js` code example using Promises
 - `index.js` same as `async.js` but wrapped with Fibers.
+
+Small reproducible example
+- `fibersShort.js` 
