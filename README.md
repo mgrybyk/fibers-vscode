@@ -1,4 +1,4 @@
-# fibers-vscode
+# Debug Fibers in IDEs
 
 ## Purpose
 
