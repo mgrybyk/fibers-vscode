@@ -1,0 +1,29 @@
+{
+  "name": "fibers-vscode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "fibers": "node index.js",
+    "async": "node async.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgrybyk/fibers-vscode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgrybyk/fibers-vscode/issues"
+  },
+  "homepage": "https://github.com/mgrybyk/fibers-vscode#readme",
+  "dependencies": {
+    "fibers": "^4.0.2"
+  },
+  "devDependencies": {
+    "@types/fibers": "^3.1.0",
+    "@types/node": "^12.12.11",
+    "eslint": "^6.6.0"
+  }
+}
